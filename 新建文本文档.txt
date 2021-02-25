@@ -1,2 +1,10 @@
 账号 648652220@qq.com
 密码 199822chen
+=======
+通过 git checkout -b 分支名 新建并切换分支
+查看当前状态 git status 
+这是个main/taozi 分支 
+修改里面的内容 
+然后继续  将新分支的内容全部提交  git add .
+git commit -m "完成"
+
